@@ -2,7 +2,11 @@
 
 
 ## Integrantes 
-- Esteban Marcelo Quiroz  
+- Martin Luque
+- Nazareno Gonzalez
+- Martin Luque
+- Agustin Mondani
+- Facundo Minio 
 
 
 ## Proyecto: Contador binario.
@@ -30,4 +34,4 @@ void EncenderBinario(int estado3, int estado2,int estado1,int estado0)
 ~~~
 
 ## :robot: Link al proyecto
-- [proyecto](https://www.tinkercad.com/things/3UB47iIs1Iu-funky-borwo-lahdi/editel?sharecode=VVW9Wf8ew58oqMX5lVovzLTdFrnXEZk0e0ResUwPpYg)
+- [Link Tinkercad](https://www.tinkercad.com/things/3UB47iIs1Iu-funky-borwo-lahdi/editel?sharecode=VVW9Wf8ew58oqMX5lVovzLTdFrnXEZk0e0ResUwPpYg)
