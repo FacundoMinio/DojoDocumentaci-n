@@ -1,5 +1,4 @@
 # Ejemplo Documentación Dojos
-![Tinkercad](./img/ArduinoTinkercad.jpg)
 
 
 ## Integrantes 
@@ -31,20 +30,4 @@ void EncenderBinario(int estado3, int estado2,int estado1,int estado0)
 ~~~
 
 ## :robot: Link al proyecto
-- [proyecto](https://www.tinkercad.com/things/aOYiibnDjWu)
-## :tv: Link al video del proceso
-- [video](https://www.youtube.com/watch?v=VyGjE8kx-O0)
-
----
-### Fuentes
-- [Consejos para documentar](https://www.sohamkamani.com/how-to-write-good-documentation/#architecture-documentation).
-
-- [Lenguaje Markdown](https://markdown.es/sintaxis-markdown/#linkauto).
-
-- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-- [Tutorial](https://www.youtube.com/watch?v=oxaH9CFpeEE).
-
-- [Emojis](https://gist.github.com/rxaviers/7360908).
-
----
+- [link de Tinkercad]([https://www.tinkercad.com/things/aOYiibnDjWu](https://www.tinkercad.com/things/3UB47iIs1Iu-funky-borwo-lahdi/editel?sharecode=VVW9Wf8ew58oqMX5lVovzLTdFrnXEZk0e0ResUwPpYg))
